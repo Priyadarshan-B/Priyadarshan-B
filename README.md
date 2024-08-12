@@ -8,9 +8,7 @@
     <a href="https://linkedin.com/in/priyadarshan-b-7b05a9271" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyadarshan-b-7b05a9271" height="30" width="40" />
     </a>&nbsp;&nbsp;
-    <a href="https://www.codechef.com/users/priyadarshan24" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyadarshan24" height="30" width="40" />
-    </a>&nbsp;&nbsp;
+ &nbsp;&nbsp;
     <a href="https://www.leetcode.com/priyadarshan18824" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyadarshan18824" height="30" width="40" />
     </a>
@@ -42,16 +40,7 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
     </a>&nbsp;&nbsp;
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-    </a>&nbsp;&nbsp;
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-    </a>&nbsp;&nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        &nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>&nbsp;&nbsp;
-    <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-        &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" />
-    </a>&nbsp;&nbsp;
+   
+
+   
 </p>
