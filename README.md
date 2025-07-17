@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Priyadarshan B
 
-🎯 **Full Stack Developer | AI Integration Enthusiast**  
+🎯 **Full Stack Developer | Freelancer**  
 🌍 From India | 💼 Passionate about building smart, scalable, and AI-powered applications
 
 ---
@@ -17,7 +17,7 @@
 
 - **Frontend**: React, Blazor, Tailwind CSS, Ant Design, MUI  
 - **Backend**: .NET Web API, Node.js  
-- **Databases**: MongoDB, Supabase, Qdrant, SQL  
+- **Databases**: MongoDB, Supabase, Qdrant, SQL, Postgres  
 - **AI Tools**: Hugging Face API, Qdrant vector DB  
 - **Tools**: VS Code, Postman, Netlify, Vercel, GitHub Actions
 
@@ -27,7 +27,6 @@
 ## 📬 Let's Connect
 
 - 📧 Email: **bpriyan18082004@gmail.com**  
-- 🔗 GitHub: [github.com/Priyadarshan-B](https://github.com/Priyadarshan-B)  
 - 🔗 LinkedIn: [linkedin.com/in/priyan1808](https://www.linkedin.com/in/priyan1808)
 
 ---
